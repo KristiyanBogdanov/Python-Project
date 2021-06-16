@@ -9,7 +9,6 @@ from PyQt5.QtWidgets import QApplication, QMainWindow, QDialog, QFrame, QSizeGri
 from PyQt5.QtGui import QColor
 from PyQt5.uic import loadUi
 
-
 from my_db import *
 from ui_functions import *
 
