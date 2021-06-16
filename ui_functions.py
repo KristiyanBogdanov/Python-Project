@@ -1,4 +1,4 @@
-from main3 import *
+from main import *
 
 GLOBAL_STATE = 0
 
